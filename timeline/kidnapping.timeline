@@ -1,0 +1,11 @@
+# Written by Timeline 0.9.0 on 2010-4-17 1:2:31
+PREFERRED-PERIOD:1932-2-11 20:24:0;1932-5-24 5:16:52
+CATEGORY:long action;229,229,229;True
+CATEGORY:minor;173,216,230;True
+CATEGORY:crucial event;255,0,0;True
+EVENT:1932-3-1 20:0:0;1932-3-1 20:0:0;The Kidnapping 02/03/1932;crucial event
+EVENT:1932-3-8 0:0:0;1932-3-8 0:0:0;Joshua Condon publie sa petit annonce;minor
+EVENT:1932-3-8 0:0:0;1932-4-1 0:0:0;John Condon est contacté par les kidnappeurs;long action
+EVENT:1932-4-2 0:0:0;1932-4-2 0:0:0;Encounter @Woodland Cemetary;
+EVENT:1932-5-2 0:0:0;1932-5-2 0:0:0;Meeting @St Raymond Cimetaries;
+# END
