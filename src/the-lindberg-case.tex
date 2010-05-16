@@ -33,6 +33,18 @@
 %   }
 % }
 
+\newcommand{\sidebox}[2]
+{
+\begin{center}
+-----------------------------------------------------------
+\end{center}
+\begin{center}\textbf{#1}\end{center}
+\textit{#2}
+\begin{center}
+-----------------------------------------------------------
+\end{center}
+}
+
 \newcommand{\glse}[2]
 {
   \newglossaryentry{#1}{name={\texttt{#2}},description={TODO\newline Mentionné p}}
@@ -72,18 +84,13 @@
 
 
 \begin{abstract}
-\fbox{
- \begin{minipage}{0.8\textwidth}
-\paragraph{}Le \emph{Lindbergh Case} est un scénario pour l'Appel de Cthulhu inspirée par l'enquête du même nom 
+\textit{\paragraph{}Le \emph{Lindbergh Case} est un scénario pour l'Appel de Cthulhu inspirée par l'enquête du même nom 
 sur le \emph{kidnapping} du fils du célèbre aviateur Charles Lindbergh. Prenant le rôle d'investigateurs
 spéciaux mandés par le directeur du FBI, le non moins fameux Edgar J. Hoover, les investigateurs auront
-l'opportunité de soulever le voile de mystère autour de l'affaire...
- \end{minipage}
-}
+l'opportunité de soulever le voile de mystère autour de l'affaire...}
 \end{abstract}
 
-
-\LRCornerWallPaper{0.3}{../artifacts/right-corner-image.png}
+\LRCornerWallPaper{0.2}{../artifacts/right-corner-image.png}
 
 
 \section{Intrigue et contexte}
